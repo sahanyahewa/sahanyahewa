@@ -56,16 +56,16 @@
 
 <br/>
 
-  <h2 align="center"> Github Statistics 📈 </h2>
-  
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sahanyahewa&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahanyahewa&theme=react&line_height=40&hide=css"/>
-    </a>
-</div
+  ### 📊 GitHub Stats
+
+<p align="center">
+  <img width="44%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=sahanyahewa&count_private=true&theme=vue-dark&border_radius=10" alt="GitHub Streak"/>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=sahanyahewa&show_icons=true&theme=vue-dark&count_private=true&border_radius=10">
+  <br>
+  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahanyahewa&layout=compact&theme=vue-dark&border_radius=10" alt="Top Languages">
+</p> 
+
+---
 
 <br/>
 
